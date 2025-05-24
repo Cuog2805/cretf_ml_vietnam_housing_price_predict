@@ -34,6 +34,7 @@ Tỉnh/Thành phố: Bỏ tiền tố Tỉnh/ Thành phố
 TRAINING MODEL:
 1. Tải dữ liệu từ file JSON
 2. Phân tích địa chỉ: Tách quận/huyện và tỉnh/thành từ địa chỉ
+3. Chia Tier theo khu vực
 3. Xác định loại BĐS: Từ hướng nhà/ban công
 4. Làm sạch dữ liệu: Loại bỏ records không hợp lệ và outliers
 5. Feature engineering: Tạo categorical encodings
